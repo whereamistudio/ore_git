@@ -1,0 +1,41 @@
+
+loop chain.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chain
+  rotate: false
+  xy: 729, 373
+  size: 15, 38
+  orig: 15, 38
+  offset: 0, 0
+  index: -1
+chain bot
+  rotate: false
+  xy: 729, 327
+  size: 5, 22
+  orig: 5, 22
+  offset: 0, 0
+  index: -1
+chain head
+  rotate: false
+  xy: 729, 351
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+cross back2
+  rotate: false
+  xy: 455, 140
+  size: 272, 271
+  orig: 272, 271
+  offset: 0, 0
+  index: -1
+cross front2
+  rotate: true
+  xy: 2, 2
+  size: 409, 451
+  orig: 409, 451
+  offset: 0, 0
+  index: -1
